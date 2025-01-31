@@ -1,3 +1,11 @@
+### Utlize essa KEY:
+
+- Para ter acesso a API DO CHAT GPT por favor utilize essa key: "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"
+
+conforme mostrado no código:
+
+const KEY_GPT = "SUA CHAVE AQUI";
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
